@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Circle">
+        <attr name="first_color" format="color"/>
+        <attr name="movable" format="boolean"/>
+        <attr name="second_color" format="color"/>
+        <attr name="start_angle" format="integer"/>
+        <attr name="sweep_angle" format="integer"/>
+        <attr name="speed" format="float"/>
+        <attr name="stroke_width" format="dimension"/>
+        <attr name="radius" format="dimension"/>
+
+    </declare-styleable>
+</resources>
